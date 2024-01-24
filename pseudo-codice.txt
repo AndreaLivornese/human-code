@@ -1,0 +1,41 @@
+? SE abbiamo qualcosa da fare sta sera
+	- usciamo 
+	: ALTRIMENTI 
+	- ci guardiamo qualcosa in tv
+	   
+           ? SE la tv è smart 
+	     - apriamo netflix
+
+		? SE abbiamo poco tempo a disposizione
+		   - iniziamo una serie tv
+                   - proponiamo un sondaggio sul genere preferito
+		   - scegliamo il genere con più voti 
+                   - scorriamo la lista della top 10 dei più visti
+		   - scegliamo la serie 
+                       ? SE qualcuno l'ha già visto
+			   - si sceglie un'altra serie
+
+		       : ALTRIMENTI 
+                           - premiamo play e finiamo l'episodio
+
+		   ? SE l'episodio è finito ma nessuno ha sonno
+		       - passiamo all'episodio successivo
+		         ? SE qualcuno si addormenta
+			    - paga i caffè
+		       FINCHè non arriviamo all'ultimo episodio
+			    - ripetiamo l'ultimo passaggio
+				
+			? SE la serie è terminata e non abbiamo sonno
+			     - ne scegliamo un'altra
+
+		   : ALTRIMENTI 
+		       - spegnamo e andiamo a letto
+
+		   
+		
+		: ALTRIMENTI
+		   - guardiamo un film
+
+ 
+	   : ALTRIMENTI 
+	     - guardiamo la tv normalmente
